@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T17:57:16.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="4aYmSLXZen6JU5BDmAPM" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T18:18:48.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="rZhex-11ew8gYgFDXIXx" version="22.1.16" type="github">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
-    <mxGraphModel dx="4220" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3475" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -140,49 +140,40 @@
           <mxGeometry x="1300" y="1735" width="960" height="1455" as="geometry" />
         </mxCell>
         <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-77" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=8;" parent="1" vertex="1">
-          <mxGeometry x="1510" y="1820" width="680" height="190" as="geometry" />
+          <mxGeometry x="1510" y="1820" width="660" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-78" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" parent="1" vertex="1">
-          <mxGeometry x="1490" y="1790" width="90" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-79" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Proxmox Node (pve-01)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-79" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Ubuntu VM-01&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1590" y="1790" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=8;" parent="1" vertex="1">
-          <mxGeometry x="2640" y="1850" width="690" height="390" as="geometry" />
+          <mxGeometry x="1510" y="2250" width="540" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-85" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" parent="1" vertex="1">
-          <mxGeometry x="2620" y="1820" width="90" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-86" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Proxmox Node (pve-02)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2720" y="1820" width="200" height="30" as="geometry" />
+        <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-86" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Ubuntu VM-02&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1590" y="2220" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-92" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://github.com/NX211/homer-icons/blob/master/png/portainer.png?raw=true;" parent="1" vertex="1">
-          <mxGeometry x="2769.26" y="1880" width="71.48" height="100" as="geometry" />
+          <mxGeometry x="1639.2600000000002" y="2280" width="71.48" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-94" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Portainer&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2740" y="1989.9899999999998" width="130" height="30" as="geometry" />
+          <mxGeometry x="1610" y="2389.99" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-95" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://github.com/NX211/homer-icons/blob/master/png/portainer.png?raw=true;" parent="1" vertex="1">
-          <mxGeometry x="1639.26" y="1850" width="71.48" height="100" as="geometry" />
+          <mxGeometry x="1639.26" y="1847.5" width="71.48" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-96" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Portainer&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1609.9999999999998" y="1955" width="130" height="30" as="geometry" />
+          <mxGeometry x="1609.9999999999998" y="1952.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-105" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=8;" parent="1" vertex="1">
-          <mxGeometry x="2640" y="2300" width="540" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-106" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" parent="1" vertex="1">
-          <mxGeometry x="2620" y="2270" width="90" height="100" as="geometry" />
+          <mxGeometry x="2590" y="2520" width="540" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-107" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Proxmox Node (pve-03)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2720" y="2270" width="200" height="30" as="geometry" />
+          <mxGeometry x="2670" y="2490" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-109" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://github.com/NX211/homer-icons/blob/master/png/portainer.png?raw=true;" parent="1" vertex="1">
-          <mxGeometry x="2769.26" y="2340" width="71.48" height="100" as="geometry" />
+          <mxGeometry x="2719.26" y="2560" width="71.48" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-110" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Portainer&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2740" y="2445" width="130" height="30" as="geometry" />
+          <mxGeometry x="2690" y="2665" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-114" value="" style="group;aspect=fixed;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1270" y="1692.5" width="150" height="150" as="geometry" />
@@ -192,6 +183,75 @@
         </mxCell>
         <mxCell id="Xht5l7l8JJ4m-X1HlJ2U-117" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;ESXi 8 Node&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1420" y="1690" width="280" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1790" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="2220" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.virtual_server;" vertex="1" parent="1">
+          <mxGeometry x="2550" y="2490" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-7" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://github.com/NX211/homer-icons/blob/master/png/guacamole.png?raw=true;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="1850" width="142.08" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-8" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://gethomepage.dev/latest/assets/light_squircle@2x.png;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="1850" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Guacamole&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1746.0399999999997" y="1952.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Homepage&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1884.9999999999998" y="1952.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-13" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://raw.githubusercontent.com/sethcottle/littlelink/3abea3d19966a182465a0e2aa8812cd3ac5a10b3/images/littlelink.svg;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="1850" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Littlelink&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2014.9999999999998" y="1952.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-15" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://github.com/NX211/homer-icons/blob/master/png/overseerr.png?raw=true;" vertex="1" parent="1">
+          <mxGeometry x="1625" y="2000" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Overseerr&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1609.9999999999998" y="2110" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-17" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://github.com/NX211/homer-icons/blob/master/png/tautulli.png?raw=true;" vertex="1" parent="1">
+          <mxGeometry x="1761.04" y="1995" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Tautulli&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1746.0399999999997" y="2110" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-19" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://github.com/NX211/homer-icons/blob/master/png/uptimekuma.png?raw=true;imageBackground=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="1995" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-20" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://github.com/NX211/homer-icons/blob/master/png/uptimekuma.png?raw=true;imageBackground=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="1995" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-21" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://github.com/NX211/homer-icons/blob/master/png/uptimekuma.png?raw=true;imageBackground=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="1995" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-22" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;UpTime&lt;br&gt;Kuma&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1885" y="2110" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-23" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://github.com/NX211/homer-icons/blob/master/png/watchtower.png?raw=true;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="1995" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Watchtower&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2014.9999999999998" y="2110" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-25" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://github.com/NX211/homer-icons/blob/master/png/cloudflare.png?raw=true;" vertex="1" parent="1">
+          <mxGeometry x="1761.04" y="2280" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-26" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Cloudflare&lt;br&gt;Tunnel&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1746.04" y="2389.99" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-27" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://github.com/NX211/homer-icons/blob/master/png/grafana.png?raw=true;" vertex="1" parent="1">
+          <mxGeometry x="1903.94" y="2280" width="92.12" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0v0pNmwwUlKoNdS4LQg7-28" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Grafana&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1885" y="2389.99" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
